@@ -6,15 +6,16 @@ As we can't remember everything, users frequently forget to buy the things they 
 
 
 ## Screenshots
-![App Screenshot](https://github.com/realjoni17/Photos/blob/main/20220919_202708.jpg)
-![App Screenshot](https://github.com/realjoni17/Photos/blob/main/20220919_202532.jpg)
-![App Screenshot](https://github.com/realjoni17/Photos/blob/main/20220919_202626.jpg)
-![App Screenshot](https://github.com/realjoni17/Photos/blob/main/20220919_202653.jpg)
+![App Screenshot](https://github.com/realjoni17/Smachar/blob/master/Assets/ss1.png)
+![App Screenshot](https://github.com/realjoni17/Smachar/blob/master/Assets/ss2.png)
+
 
 ## Technology Used
-Kotlin 
+Jetpack Compose - for modern ui design
+Retrofit - for rest api integration
+dagger-hilt = for dependicies injections
 
- 
-XML Designs(UI)
-
-Android Studio
+## Future Updates
+will add a splash screen to the app
+will use pagging3 library
+will add bottom navbar and seperate different geners of news
